@@ -10,3 +10,4 @@ updated pinned repositories. Specified which repos get featured. Can remove them
 20:03 changed pfp (here's the old pfp) ![old profile picture](/lumpia.jpg)
 
 2024-02-28 changing pins on github. replacing the github gist (ecsr jupyter notebook) to my latex resume [16:26]
+04-26 changing bio from "developer, designer, philomath" to "engineer, creator, philomath" [09:31]
