@@ -11,3 +11,5 @@ updated pinned repositories. Specified which repos get featured. Can remove them
 
 2024-02-28 changing pins on github. replacing the github gist (ecsr jupyter notebook) to my latex resume [16:26]
 04-26 changing bio from "developer, designer, philomath" to "engineer, creator, philomath" [09:31]
+
+2026-05-30 05:17 update: just changed my username to all lowercase. also added my personal email as a backup email and my custom email as primary
